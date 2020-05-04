@@ -1,0 +1,14 @@
+{
+  "name": "docs",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "@gridsome/vue-remark": "^0.2.0",
+    "bootstrap-vue": "^2.13.0",
+    "gridsome": "^0.7.0"
+  }
+}
