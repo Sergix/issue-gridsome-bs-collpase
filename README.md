@@ -2,6 +2,8 @@
 
 This repo represent the issue I am getting while using gridsome for my documentation.
 
+![gif](grdisome-bs-collapse-import-issue.gif)
+
 ## Issue
 
 When I import component from outside of gridsome folder it throws error when I collapse the component.
